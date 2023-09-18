@@ -1,13 +1,24 @@
 # DrawTree
 You can draw your tree with Python3👍
+
 你可以用Python绘制你的树了👍
 
 
 ![image](https://github.com/5710xIa/DrawTree/assets/140572618/a2f0d108-12c6-4141-9543-55f2b7cd93ad)
 
+---------------------------------------
 
 
-注意：
+you need this to running program:
+
+需要安装这些依赖才能正常运行本程序:
+
+ 
+```networkx```
+```matplotlib```
+
+---------------------------------------
+
 
 This program only can draw five height tree 😢
 But you can add dict in GetTreePos.py
