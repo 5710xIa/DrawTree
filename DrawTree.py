@@ -22,6 +22,6 @@ class DrawTree:
 
         # 绘制二叉树
         # pos可以通过get_pos快速生成
-        pos = get_pos(res)
+        pos = get_pos(res,i)
         nx.draw(G,pos,with_labels=True)
         plt.show()
